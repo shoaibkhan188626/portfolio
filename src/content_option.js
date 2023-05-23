@@ -2,7 +2,7 @@ const logotext = "SHOAIB KHAN";
 const meta = {
   title: "SHOAIB KHAN",
   description:
-    "I’m SHOAIB KHAN a MERN stack devloper,currently working at Tekisky Nanded, Maharashtra",
+    "I’m SHOAIB KHAN a Full stack devloper,currently working at GMS Global Solutions, Bengaluru",
 };
 
 const introdata = {
@@ -14,7 +14,7 @@ const introdata = {
     fourth: "I BRING IDEAS TO LIFE WITH REACT AND NODE.JS",
   },
   description:
-    "I am SHOAIB KHAN, a results-driven MERN Stack Developer with a keen eye for detail and a strong focus on delivering clean and efficient code. With a passion for problem-solving and a deep understanding of the MERN stack technologies, I am dedicated to creating scalable and impactful web applications",
+    "I am SHOAIB KHAN, a results-driven Full Stack Developer with a keen eye for detail and a strong focus on delivering clean and efficient code. With a passion for problem-solving and a deep understanding of the MERN stack technologies, I am dedicated to creating scalable and impactful web applications",
   your_img_url:
     "https://images.unsplash.com/photo-1517774076143-eece9f48df5f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=460&q=80",
 };
@@ -22,13 +22,13 @@ const introdata = {
 const dataabout = {
   title: "A bit about my self",
   aboutme:
-    "Experienced MERN stack developer with one year of hands-on expertise in building robust and scalable web applications. Proficient in front-end technologies such as React, HTML, CSS, and JavaScript, along with back-end technologies including Node.js, Express, and MongoDB. Strong problem-solving skills and a passion for delivering high-quality code to meet client needs.",
+    "Experienced MERN stack developer with two year of hands-on expertise in building robust and scalable web applications. Proficient in front-end technologies such as React, HTML, CSS, and JavaScript, along with back-end technologies including Node.js, Express, and MongoDB. Strong problem-solving skills and a passion for delivering high-quality code to meet client needs.",
 };
 const worktimeline = [
   {
     jobtitle: "FULL STACK DEVELOPER",
-    where: "TEKISKY PVT LTD",
-    date: "2022 - PRESENT",
+    where: "GMS Global Solutions",
+    date: "2021 - PRESENT",
   },
 ];
 
@@ -107,17 +107,17 @@ const services = [
   {
     title: "FRONT-END WEB DEVELOPMENT",
     description:
-      "Experienced front-end web developer with one year of hands-on experience in React, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Next.js, Three.js, GSAP, and WebGL.",
+      "Experienced front-end web developer with two year of hands-on experience in React, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Next.js, Three.js, GSAP, and WebGL.",
   },
   {
     title: "BACK-END WEB DEVELOPMENT",
     description:
-      "Experienced backend web developer with one year of hands-on experience in Node.js, Express, MongoDB (Mongoose), SQL.",
+      "Experienced backend web developer with two year of hands-on experience in Node.js, Express, MongoDB (Mongoose), SQL.",
   },
   {
     title: "DATABASE MANAGEMENT",
     description:
-      "Experienced database management professional with one year of hands-on experience in MongoDB, including MongoDB Compass and Atlas.",
+      "Experienced database management professional with two year of hands-on experience in MongoDB, including MongoDB Compass and Atlas.",
   },
 ];
 
