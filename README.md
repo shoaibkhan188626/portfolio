@@ -1,3 +1,20 @@
+[![React](https://img.shields.io/badge/React-16%2B-blue)](https://reactjs.org/)
+[![npm](https://img.shields.io/npm/v/react.svg)](https://www.npmjs.com/package/react)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Three.js](https://img.shields.io/badge/Three.js-r129-orange)](https://threejs.org/)
+[![npm](https://img.shields.io/npm/v/three.svg)](https://www.npmjs.com/package/three)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-brightgreen)](https://vercel.com/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvercel.com)](https://vercel.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![HTML5](https://img.shields.io/badge/HTML5-semantic-orange?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-styling-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript)
+![Website Deployed](https://img.shields.io/badge/Website-Deployed-brightgreen)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
