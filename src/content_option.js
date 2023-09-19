@@ -1,12 +1,12 @@
-const logotext = "SHOAIB KHAN";
+const logotext = "ABDUL RAHMAN";
 const meta = {
-  title: "SHOAIB KHAN",
+  title: "ABDUL RAHMAN",
   description:
-    "I’m SHOAIB KHAN a Full stack devloper,currently working at GMS Global Solutions, Bengaluru",
+    "I’m ABDUL RAHMAN a Full stack developer, currently working at TECSOLVENT SOFTWARE TECHNOLOGIES, Bengaluru",
 };
 
 const introdata = {
-  title: "I’m SHOAIB KHAN",
+  title: "I’m ABDUL RAHMAN",
   animated: {
     first: "I EXCEL IN MERN STACK DEVELOPMENT",
     second: "I CREATE DYNAMIC WEB APPLICATIONS",
@@ -14,20 +14,20 @@ const introdata = {
     fourth: "I BRING IDEAS TO LIFE WITH REACT AND NODE.JS",
   },
   description:
-    "I am SHOAIB KHAN, a results-driven Full Stack Developer with a keen eye for detail and a strong focus on delivering clean and efficient code. With a passion for problem-solving and a deep understanding of the MERN stack technologies, I am dedicated to creating scalable and impactful web applications",
+    "I am ABDUL RAHMAN, a results-driven Full Stack Developer with a keen eye for detail and a strong focus on delivering clean and efficient code. With a passion for problem-solving and a deep understanding of the MERN stack technologies, I am dedicated to creating scalable and impactful web applications",
   your_img_url:
     "https://images.unsplash.com/photo-1517774076143-eece9f48df5f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=460&q=80",
 };
 
 const dataabout = {
-  title: "A bit about my self",
+  title: "A bit about myself",
   aboutme:
-    "Experienced MERN stack developer with two year of hands-on expertise in building robust and scalable web applications. Proficient in front-end technologies such as React, HTML, CSS, and JavaScript, along with back-end technologies including Node.js, Express, and MongoDB. Strong problem-solving skills and a passion for delivering high-quality code to meet client needs.",
+    "Experienced MERN stack developer with two plus years of hands-on expertise in building robust and scalable web applications. Proficient in front-end technologies such as React, HTML, CSS, and JavaScript, along with back-end technologies including Node.js, Express, and MongoDB. Strong problem-solving skills and a passion for delivering high-quality code to meet client needs.",
 };
 const worktimeline = [
   {
     jobtitle: "FULL STACK DEVELOPER",
-    where: "GMS Global Solutions",
+    where: "TECSOLVENT SOFTWARE TECHNOLOGIES",
     date: "2021 - PRESENT",
   },
 ];
@@ -107,17 +107,17 @@ const services = [
   {
     title: "FRONT-END WEB DEVELOPMENT",
     description:
-      "Experienced front-end web developer with two year of hands-on experience in React, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Next.js, Three.js, GSAP, and WebGL.",
+      "Experienced front-end web developer with two plus years of hands-on experience in React, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Next.js, Three.js, GSAP, and WebGL.",
   },
   {
     title: "BACK-END WEB DEVELOPMENT",
     description:
-      "Experienced backend web developer with two year of hands-on experience in Node.js, Express, MongoDB (Mongoose), SQL.",
+      "Experienced backend web developer with two plus years of hands-on experience in Node.js, Express, MongoDB (Mongoose), SQL.",
   },
   {
     title: "DATABASE MANAGEMENT",
     description:
-      "Experienced database management professional with two year of hands-on experience in MongoDB, including MongoDB Compass and Atlas.",
+      "Experienced database management professional with two plus years of hands-on experience in MongoDB, including MongoDB Compass and Atlas.",
   },
 ];
 
@@ -142,7 +142,7 @@ const dataportfolio = [
   {
     img: "https://360view.hum3d.com/zoom/Tools/T-Shirt_1000_0001.jpg",
     description:
-      "A 3D T SHIRT CUSTOMIZING SITE MADE USING REACT AND DALLE-2 APIs.",
+      "A 3D T-SHIRT CUSTOMIZING SITE MADE USING REACT AND DALLE-2 APIs.",
     link: "#",
   },
   {
@@ -155,14 +155,14 @@ const dataportfolio = [
   {
     img: "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
     description:
-      "I developed a Next.js-powered event booking site, enabling users to browse, book, and attend various events with ease, providing a seamless experience for event organizers and attendees alike.",
+      "I developed a Next. js-powered event booking site, enabling users to browse, book, and attend various events with ease, providing a seamless experience for event organizers and attendees alike.",
     link: "#",
   },
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "shoaibullakhan15@gmail.com",
-  YOUR_FONE: "+91-8830488649",
+  YOUR_EMAIL: "abdulrahman.ar142@gmail.com",
+  YOUR_FONE: "+91-7507404237",
   description:
     "I am a passionate MERN Stack Developer, driven by a love for creating innovative and user-centric web applications. With a strong attention to detail and a commitment to delivering high-quality solutions, I am dedicated to exceeding expectations and making a positive impact through my work. Let's collaborate and bring your ideas to life! ",
   YOUR_SERVICE_ID: "service_xncjl97",
